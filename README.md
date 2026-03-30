@@ -102,4 +102,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-**Note:** For this project, the social media links are placeholders (`#`) to protect privacy and prevent spam. You can replace them with your actual accounts if you publish the project. The project is hosted on GitHub, which allows you to share the source code and a live version easily.
+
